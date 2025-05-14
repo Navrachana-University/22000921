@@ -19,3 +19,7 @@ Steps to run the project code:
 7.Get-Content program.grw | ./garhwali_compiler
 
 
+Roma Rajbhar
+(22000921)
+
+
